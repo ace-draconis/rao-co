@@ -1,0 +1,11 @@
+state: enabled
+email: ace.kuro21@gmail.com
+fullname: 'Ace Draconis'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$4frWuAwp1CPyIZbt1LiU2ODt.ZNzClDFpLpMaAgUV93MSTOP8GawG

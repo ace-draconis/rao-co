@@ -1,0 +1,76 @@
+<section class="swag text-center" style="background-image:url('{{ page.media[page.header.img].url }}')">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <h1>{{ page.title }}</h1>
+        <a href="#{{ page.header.id }}" class="down-arrow-btn"><i class="fa fa-chevron-down"></i></a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class=" dark-bg team text-center section-padding" id="our_team">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1 class="arrow">{{ page.title }}</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        {{ page.content }}
+      </div>
+    </div>
+    <div class="light-box box-hover team-wrapper">
+      <div class="row">
+        <div class="col-md-4">
+          <img src="{{ page.media[page.header.profile_img].url }}" alt="Team" class="default">
+
+          <h1 class="arrow">{{ page.header.name }}</h1>
+          <h2>{{ page.header.sub_title }}</h2>
+          <p>{{ page.header.phone }}<br>
+            {{ page.header.email }}</p>
+        </div>
+        <div class="col-md-8">
+          {% for item in page.header.content %}
+          <p class="text-justify">{{ item }}</p>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <ul class="slides">
+        {% for row in page.header.team|batch(4) %}
+        <li>
+          {% for item in row %}
+          <div class="col-md-4 wp5 {% if item.delay %}delay-{{ item.delay }}s{% endif %}">
+            <div class="light-box box-hover">
+              <img src="{{ page.media[item.profile_img].url }}" alt="Team" class="default">
+
+              <h1 class="arrow">{{ item.name }}</h1>
+              <h2>{{ item.sub_title }}</h2>
+              <p>{{ item.phone }}<br>
+                {{ item.email }}</p>
+              <div class="content">
+                {% for item in item.content %}
+                <p class="text-justify">{{ item }}</p>
+                {% endfor %}
+
+              </div>
+              <div class="social">
+                <ul class="social-buttons">
+                  {% for icon in item.social  %}
+                  <li><a href="{{ icon.url }}" class="social-btn"><i class="fa fa-{{ icon.icon }}"></i></a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+</section>
