@@ -1,0 +1,39 @@
+1601889429
+a:2:{s:7:"content";s:1110:"<section class="intro text-center section-padding" id="introduction">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12   wp1">
+        <h1 class="arrow">About Us</h1>
+        <section>
+  <div class="container-fluid nopadding responsive-services">
+  <div class="row">
+  <div class="col-md-6"><div class="split-left-bg"></div></div>
+  <div class="col-md-6"> {% include 'partials/split-left.html.twig' %}
+{% include 'partials/split-right.html.twig' %}</div>
+  </div>
+  </div>
+</section>
+<section class="text-center" id="responsive_design">
+  <div class="container-fluid nopadding responsive-services">
+    <div class="wrapper">
+      <div class="iphone">
+        <div class="split-left-bg"></div>
+      </div>
+      <div class="fluid-white"></div>
+    </div>
+    <div class="container designs">
+      <div class="row">
+        <div class="col-md-5 col-md-offset-7">
+          {% include 'partials/split-left.html.twig' %}
+{% include 'partials/split-right.html.twig' %}
+             
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+      </div>
+    </div>
+  </div>
+</section>
+";s:12:"content_meta";N;}

@@ -1,0 +1,101 @@
+1601622177
+a:2:{s:7:"content";s:5089:"<section class="portfolio text-center section-padding" id="portfolio">
+  <div class="container">
+    <div class="row">
+      
+      <div id="portfolioSlider">
+        <ul class="slides">
+                    <li>
+                        <div class="col-md-6 wp4 ">
+              <div class="overlay-effect effects clearfix">
+                <div class="img fancy-border">
+                  <img src="/images/c/i/v/i/l/civil-litigation-a6a0adc3.png" alt="Portfolio Item">
+                  <div class="overlay">
+                    <a href="#" class="expand"><i class="fa fa-search"></i><br>View More</a>
+                    <a class="close-overlay hidden">x</a>
+                  </div>
+                </div>
+              </div>
+              <h2>Litigation</h2>
+               <ul class="item">
+                                <li>Banking & Finance Claims</li>
+                                <li>Hire-purchase Claims</li>
+                                <li> Sale of Goods Claims</li>
+                                <li>Personal Injury & Accident Claims</li>
+                                <li>Employment & Industrial Relations Disputes</li>
+                                <li>Insolvency</li>
+                                <li>Divorce & Matrimonial Disputes</li>
+                                <li>Probate & Letters of Administration</li>
+                                <li>Tort Claims</li>
+                                <li>General Civil & Corporate Litigation</li>
+                                <li>Arbitration</li>
+                                </ul>
+            </div>
+                        <div class="col-md-6 wp4 ">
+              <div class="overlay-effect effects clearfix">
+                <div class="img fancy-border">
+                  <img src="/images/c/o/r/p/o/corporate-and-commercial-sector-b0843314.jpeg" alt="Portfolio Item">
+                  <div class="overlay">
+                    <a href="#" class="expand"><i class="fa fa-search"></i><br>View More</a>
+                    <a class="close-overlay hidden">x</a>
+                  </div>
+                </div>
+              </div>
+              <h2>Corporate & Commercial</h2>
+               <ul class="item">
+                                <li>Merger & Acquisitions</li>
+                                <li>Restructuring</li>
+                                <li>Joint Ventures (Incorporated & Unincorporated)</li>
+                                <li>Incorporation of company</li>
+                                <li>Acquisition & Submission Due Diligence</li>
+                                <li>Advisory on Corporate & Securities Laws & Regulations</li>
+                                <li>Agency, Distributorship & Franchising</li>
+                                <li>Consultancy & Management</li>
+                                <li>Acquisition & Disposal of Business & Assets</li>
+                                <li>Communication & Information Technology</li>
+                                <li>Memorandum of Understanding</li>
+                                </ul>
+            </div>
+                        <div class="col-md-6 wp4 ">
+              <div class="overlay-effect effects clearfix">
+                <div class="img fancy-border">
+                  <img src="/images/b/a/n/k/i/banking-and-finance-d01e19d5.jpeg" alt="Portfolio Item">
+                  <div class="overlay">
+                    <a href="#" class="expand"><i class="fa fa-search"></i><br>View More</a>
+                    <a class="close-overlay hidden">x</a>
+                  </div>
+                </div>
+              </div>
+              <h2>Banking & Finance</h2>
+               <ul class="item">
+                                <li>Acquisition Finance</li>
+                                <li>Business & Commercial Loan</li>
+                                <li>Bridging Finance</li>
+                                <li>Property & Estate Finance</li>
+                                </ul>
+            </div>
+                        <div class="col-md-6 wp4 ">
+              <div class="overlay-effect effects clearfix">
+                <div class="img fancy-border">
+                  <img src="/images/t/a/x/-/b/tax-benefits-of-investing-in-real-estate-you-should-know-about-bd9b026f.jpeg" alt="Portfolio Item">
+                  <div class="overlay">
+                    <a href="#" class="expand"><i class="fa fa-search"></i><br>View More</a>
+                    <a class="close-overlay hidden">x</a>
+                  </div>
+                </div>
+              </div>
+              <h2>Real Estate</h2>
+               <ul class="item">
+                                <li>Property development</li>
+                                <li>Sale and purchase of residential & commercial buildings, lands & factories</li>
+                                <li>Leases & Tenancies</li>
+                                <li>Acquisition by foreign interest</li>
+                                </ul>
+            </div>
+                      </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+</section>
+";s:12:"content_meta";N;}

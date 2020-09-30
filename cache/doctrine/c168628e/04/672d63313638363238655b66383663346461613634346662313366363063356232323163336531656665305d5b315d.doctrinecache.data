@@ -1,0 +1,44 @@
+1601626435
+a:2:{s:7:"content";s:780:"
+
+
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#ls-1JfHtCc9zY").lightSlider({
+        item: 1,
+        slideMove: 1,
+        slideMargin: 0,
+        mode: 'fade',
+        cssEasing: 'ease',
+        easing: '',
+        speed: 1000,
+        auto: true,
+        loop: true,
+        pause: 2000,
+        pauseOnHover: false,
+        controls: true,
+        keyPress: true,
+        adaptiveHeight: true,
+        vertical: false,
+        verticalHeight: 500,
+        pager: true,
+        gallery: false,
+        galleryMargin: 15,
+        thumbMargin: 5,
+        enableTouch: true,
+        enableDrag: true,
+
+    });
+  });
+</script>
+
+
+<div id="ls-1JfHtCc9zY-wrapper" class="grav-lightslider">
+        <ul id="ls-1JfHtCc9zY">
+            </ul>
+    </div>
+
+
+
+";s:12:"content_meta";N;}

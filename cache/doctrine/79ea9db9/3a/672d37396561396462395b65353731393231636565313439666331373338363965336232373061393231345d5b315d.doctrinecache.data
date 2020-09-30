@@ -1,0 +1,41 @@
+1601622906
+a:2:{s:7:"content";s:1208:"<section class="features text-center section-padding" id="features">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        
+        <div class="features-wrapper">
+                    <div class="col-md-4 feature-1 wp2 ">
+            <div class="icon">
+              <i class="fa fa-"></i>
+            </div>
+            <h2>Litigation</h2>
+            <p>Array</p>
+                      </div>
+                    <div class="col-md-4 feature-2 wp2 ">
+            <div class="icon">
+              <i class="fa fa-"></i>
+            </div>
+            <h2>Corporate & Commercial</h2>
+            <p>Array</p>
+                      </div>
+                    <div class="col-md-4 feature-3 wp2 ">
+            <div class="icon">
+              <i class="fa fa-"></i>
+            </div>
+            <h2>Banking & Finance</h2>
+            <p>Array</p>
+                      </div>
+                    <div class="col-md-4 feature-4 wp2 ">
+            <div class="icon">
+              <i class="fa fa-"></i>
+            </div>
+            <h2>Real Estate</h2>
+            <p>Array</p>
+                      </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+</section>
+";s:12:"content_meta";N;}

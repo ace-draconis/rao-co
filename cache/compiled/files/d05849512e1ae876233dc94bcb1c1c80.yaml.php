@@ -1,0 +1,53 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => '/home/sylverwe/public_html/sraoco/user/plugins/googlemaps/blueprints.yaml',
+    'modified' => 1549714637,
+    'data' => [
+        'name' => 'Googlemaps',
+        'version' => '0.3.5',
+        'description' => 'The **googlemaps** plugin provides a method to display a google map with KML overlay and markers',
+        'icon' => 'map-marker',
+        'author' => [
+            'name' => 'Francis Meyvis',
+            'email' => 'https://aptly.io/contact',
+            'url' => 'https://aptly.io'
+        ],
+        'homepage' => 'https://github.com/aptly-io/grav-plugin-googlemaps',
+        'demo' => 'https://aptly.io/about/hiking',
+        'keywords' => 'Google maps, KML',
+        'bugs' => 'https://github.com/aptly-io/grav-plugin-googlemaps/issues',
+        'license' => 'MIT',
+        'form' => [
+            'validation' => 'strict',
+            'fields' => [
+                'enabled' => [
+                    'type' => 'toggle',
+                    'label' => 'Plugin activation',
+                    'highlight' => 1,
+                    'default' => 1,
+                    'options' => [
+                        1 => 'Enabled',
+                        0 => 'Disabled'
+                    ],
+                    'validate' => [
+                        'type' => 'bool'
+                    ]
+                ],
+                'built_in_css' => [
+                    'type' => 'toggle',
+                    'label' => 'Use plugin\'s build-in css',
+                    'highlight' => 1,
+                    'default' => 1,
+                    'options' => [
+                        1 => 'Enabled',
+                        0 => 'Disabled'
+                    ],
+                    'validate' => [
+                        'type' => 'bool'
+                    ]
+                ]
+            ]
+        ]
+    ]
+];

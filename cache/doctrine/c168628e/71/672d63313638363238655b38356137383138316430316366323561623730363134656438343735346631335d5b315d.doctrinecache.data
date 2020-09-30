@@ -1,0 +1,87 @@
+1601629335
+a:2:{s:7:"content";s:2558:"<section class="team text-center section-padding" id="team">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        
+      </div>
+    </div>
+    <div class="row">
+      <div class="team-wrapper">
+        <div id="teamSlider">
+          <ul class="slides">
+                        <li>
+                            <div class="col-md-4 wp5 ">
+                <div class="hex" style="background-image: url(page.media[item.img].url);">    
+    <a href="#"></a>    
+    <div class="corner-1"></div>
+    <div class="corner-2"></div>    
+  </div>
+                
+                <h2>SUGANDRA RAO</h2>
+                <p>Array</p>
+
+                <div class="social">
+                  <ul class="social-buttons">
+                                      </ul>
+                </div>
+
+              </div>
+                            <div class="col-md-4 wp5 ">
+                <div class="hex" style="background-image: url(page.media[item.img].url);">    
+    <a href="#"></a>    
+    <div class="corner-1"></div>
+    <div class="corner-2"></div>    
+  </div>
+                
+                <h2>Corporate & Commercial</h2>
+                <p>Array</p>
+
+                <div class="social">
+                  <ul class="social-buttons">
+                                      </ul>
+                </div>
+
+              </div>
+                            <div class="col-md-4 wp5 ">
+                <div class="hex" style="background-image: url(page.media[item.img].url);">    
+    <a href="#"></a>    
+    <div class="corner-1"></div>
+    <div class="corner-2"></div>    
+  </div>
+                
+                <h2>Banking & Finance</h2>
+                <p>Array</p>
+
+                <div class="social">
+                  <ul class="social-buttons">
+                                      </ul>
+                </div>
+
+              </div>
+                          </li>
+                        <li>
+                            <div class="col-md-4 wp5 ">
+                <div class="hex" style="background-image: url(page.media[item.img].url);">    
+    <a href="#"></a>    
+    <div class="corner-1"></div>
+    <div class="corner-2"></div>    
+  </div>
+                
+                <h2>Real Estate</h2>
+                <p>Array</p>
+
+                <div class="social">
+                  <ul class="social-buttons">
+                                      </ul>
+                </div>
+
+              </div>
+                          </li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+";s:12:"content_meta";N;}

@@ -1,0 +1,18 @@
+1601953287
+a:2:{s:7:"content";s:465:"<section class="intro text-center section-padding" id="introduction">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12   wp1">
+        <h1 class="arrow">About Us</h1>
+        <div class="row">
+  <div class="col-md-4">
+    <div class="fancy-border">
+      <img src="" class="img-responsive">
+    </div>
+  </div>
+  <div class="col-md-6">{% include 'partials/split-right.html.twig' %}</div>
+</div>      </div>
+    </div>
+  </div>
+</section>
+";s:12:"content_meta";N;}

@@ -1,0 +1,218 @@
+1601626510
+a:2:{s:7:"content";s:9676:"
+    </head>
+    <body id="top">
+                     
+<header id="home">
+    <nav>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-8 col-xs-offset-2">
+        <nav class="pull">
+                    
+          <ul class="top-nav">
+            
+                                    <li class="">
+              <a href="#home_content"><span class="indicator"><i class="fa fa-angle-right"></i></span>Home Content</a>
+            </li>
+            
+            
+                                    <li class="">
+              <a href="#areas_of_practice"><span class="indicator"><i class="fa fa-angle-right"></i></span>Areas of Practice</a>
+            </li>
+            
+            
+                                    <li class="">
+              <a href="#_practice"><span class="indicator"><i class="fa fa-angle-right"></i></span>_practice</a>
+            </li>
+            
+                      </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</nav>
+    <section class="hero" id="hero">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-right navicon">
+          <a id="nav-toggle" class="nav_slide_button" href="#"><span></span></a>
+        </div>
+      </div>
+      <div class="row hero-content">
+        <div class="col-md-8 col-md-offset-2 text-center inner">
+          <h1 class="animated fadeInDown">RAO & <span>CO.</span></h1>
+          <p class="animated fadeInUp delay-05s">Advocates & Solicitors</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3 text-center">
+                  </div>
+      </div>
+    </div>
+  </section>
+</header>
+        
+                        
+    <div id="content">
+                                    <link href="/user/plugins/markdown-notices/assets/notices.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/lightslider/css/lightslider.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/lightslider/css/lightslider-custom.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/login/css/login.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/form/assets/form-styles.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/halcyon/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/halcyon/css/flexslider.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/halcyon/css/styles.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/halcyon/css/queries.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/halcyon/css/animate.css" type="text/css" rel="stylesheet">
+
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+            <meta charset="utf-8" />
+        <title>Home Content | Grav</title>
+            <meta name="generator" content="GravCMS" />
+    <meta name="description" content="Grav is an easy to use, yet powerful, open source flat-file CMS" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Varela+Round&amp;subset=latin-ext" rel="stylesheet">
+        <link rel="icon" type="image/png" href="/user/themes/halcyon/img/favicon.ico" />
+
+                                                                                                                 
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+                    <link href="/user/plugins/markdown-notices/assets/notices.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/lightslider/css/lightslider.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/lightslider/css/lightslider-custom.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/login/css/login.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/form/assets/form-styles.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/halcyon/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/halcyon/css/flexslider.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/halcyon/css/styles.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/halcyon/css/queries.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/halcyon/css/animate.css" type="text/css" rel="stylesheet">
+
+        
+    </head>
+    <body id="top">
+                     
+<header id="home">
+    <nav>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-8 col-xs-offset-2">
+        <nav class="pull">
+                    
+          <ul class="top-nav">
+                      </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</nav>
+    <section class="hero" id="hero">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-right navicon">
+          <a id="nav-toggle" class="nav_slide_button" href="#"><span></span></a>
+        </div>
+      </div>
+      <div class="row hero-content">
+        <div class="col-md-8 col-md-offset-2 text-center inner">
+          <h1 class="animated fadeInDown">RAO & <span>CO.</span></h1>
+          <p class="animated fadeInUp delay-05s">Advocates & Solicitors</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3 text-center">
+                  </div>
+      </div>
+    </div>
+  </section>
+</header>
+        
+                    <section class="intro text-center section-padding" id="introduction">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12   wp1">
+        <h1 class="arrow">Home Content</h1>
+        <section class="intro section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="arrow"> About Us</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <p class=" fancy-border">
+                    
+                </p>
+            </div>
+            <div class="col-md-8 text-justify">
+                <p><strong>Messrs RAO &amp; CO</strong> is a boutique legal firm based in Melaka and it was formed by
+                    Sugandra Rao Naidu on 1.1.2014. Sugandra Rao Naidu was called to the Malaysian Bar on 7.2.2002 and
+                    has been active in practice since then. The Firm consist of highly skilled and experienced
+                    associates who routinely assist businesses and individuals in diverse litigation
+                    matters.<br><br>
+                    We pride ourselves on understanding and anticipating our clients' needs, and on providing the
+                    highest quality legal services to protect our clients' interests. As a result, we have longstanding
+                    relationships with a wide array of clients. You can trust that, as a general practice firm, we will
+                    be able to provide representation on whatever legal matter you may face.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8 text-justify">
+                <p>
+                    Our Firm is accustomed to the tight deadlines under which many businesses operate. We provide a team
+                    approach in multiple practice areas to ensure that clients have representation available at all
+                    times, whether a lawyer is needed to render advice, appear in court, or draft and file pleadings and
+                    motions on the client's behalf.<br><br>
+                    It is our goal to make each client a lifelong client. A lawyer directly handles each case with the
+                    help of the firm's dedicated and experienced staff. Our clients have come back to us time after
+                    time. We accomplish this by being highly responsive to each need and request, promptly returning
+                    phone calls and readily providing information.
+                </p>
+            </div>
+            <div class="col-md-4 ">
+                <p class=" fancy-border">
+                    
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+      </div>
+    </div>
+  </div>
+</section>
+        
+                     <footer>
+  <div class="container">
+    <div class="row">
+        <div class="col-md-6 credit">
+      <p>Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a> exclusively for <a href="http://tympanus.net/codrops/"><em>Codrops</em></a></p>
+    </div>
+  </div>
+</div>
+</footer>
+        
+                                                                                                
+        <script src="/system/assets/jquery/jquery-2.x.min.js"></script>
+<script src="/user/plugins/lightslider/js/lightslider.min.js"></script>
+<script src="/user/themes/halcyon/js/waypoints.min.js"></script>
+<script src="/user/themes/halcyon/js/bootstrap.min.js"></script>
+<script src="/user/themes/halcyon/js/scripts.js"></script>
+<script src="/user/themes/halcyon/js/jquery.flexslider.js"></script>
+<script src="/user/themes/halcyon/js/modernizr.js"></script>
+
+         
+    </body>
+</html>
+";s:12:"content_meta";N;}

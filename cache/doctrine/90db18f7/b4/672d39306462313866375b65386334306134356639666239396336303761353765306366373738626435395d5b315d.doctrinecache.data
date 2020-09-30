@@ -1,0 +1,47 @@
+1601975135
+a:2:{s:7:"content";s:1546:"<section class="swag text-center" style="background-image:url('/images/0/4/b/g/-/04bg-797053a7.jpeg')">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <h1>Contact Us</h1>
+        <a href="#" class="down-arrow-btn"><i class="fa fa-chevron-down"></i></a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="intro  section-padding" id="cases">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1 class="arrow">Get In Touch</h1>
+        <br> <br>
+      </div>
+    </div>
+    <div class="row">
+    <div class="col-md-3">
+        <h2 class="arrow text-center">Malacca Office</h2>
+        <b>Messrs Rao &amp; Co</b><br>
+        NO. 11 &amp; 11-1, JALAN KL 3/13<br>
+        TAMAN KOTA LAKSAMANA, SEKSYEN 3<br>
+        75200 MELAKA, MALAYSIA
+
+        <ul>
+            <li>Tel: +606.286 1122</li>
+            <li>Fax: +606.286 1212</li>
+            <li>Email: rao@sraoco.com</li>
+            <li>Website: www.sraoco.com</li>
+        </ul>
+    </div>
+    <div class="col-md-9">
+        <div class="fancy-border">
+            <div class="mapouter">
+                <div class="gmap_canvas">
+                    <iframe width="100%" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=Rao%20%26%20Co.%2C%20Advocates%20%26%20Solicitors&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+  </div>
+</section>";s:12:"content_meta";N;}

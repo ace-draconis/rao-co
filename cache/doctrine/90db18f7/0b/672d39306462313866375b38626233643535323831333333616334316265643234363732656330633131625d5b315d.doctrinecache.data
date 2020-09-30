@@ -1,0 +1,81 @@
+1601959464
+a:2:{s:7:"content";s:3964:"<section class="swag text-center" style="background-image:url('/images/c/i/v/i/l/civil-litigation-7777edeb.png')">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <h1>Areas of Practice</h1>
+        <a href="#practice" class="down-arrow-btn"><i class="fa fa-chevron-down"></i></a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="text-center" id="responsive_design">
+  <div class="container-fluid nopadding responsive-services">
+    <div class="wrapper">
+      <div class="iphone">
+        <div class="wp3"></div>
+      </div>
+      <div class="fluid-white"></div>
+    </div>
+    <div class="container designs my-3">
+      <div class="row">
+        <div class="col-md-5 col-md-offset-7">
+          <div id="servicesSlider">
+            <ul class="slides">
+                            <li>
+                <h1 class="arrow">Litigation</h1>
+                <ul class="item">
+                                    <li>Banking & Finance Claims</li>
+                                    <li>Hire-purchase Claims</li>
+                                    <li> Sale of Goods Claims</li>
+                                    <li>Personal Injury & Accident Claims</li>
+                                    <li>Employment & Industrial Relations Disputes</li>
+                                    <li>Insolvency</li>
+                                    <li>Divorce & Matrimonial Disputes</li>
+                                    <li>Probate & Letters of Administration</li>
+                                    <li>Tort Claims</li>
+                                    <li>General Civil & Corporate Litigation</li>
+                                    <li>Arbitration</li>
+                                  </ul>
+                              </li>
+                            <li>
+                <h1 class="arrow">Corporate & Commercial</h1>
+                <ul class="item">
+                                    <li>Merger & Acquisitions</li>
+                                    <li>Restructuring</li>
+                                    <li>Joint Ventures (Incorporated & Unincorporated)</li>
+                                    <li>Incorporation of company</li>
+                                    <li>Acquisition & Submission Due Diligence</li>
+                                    <li>Advisory on Corporate & Securities Laws & Regulations</li>
+                                    <li>Agency, Distributorship & Franchising</li>
+                                    <li>Consultancy & Management</li>
+                                    <li>Acquisition & Disposal of Business & Assets</li>
+                                    <li>Communication & Information Technology</li>
+                                    <li>Memorandum of Understanding</li>
+                                  </ul>
+                              </li>
+                            <li>
+                <h1 class="arrow">Banking & Finance</h1>
+                <ul class="item">
+                                    <li>Acquisition Finance</li>
+                                    <li>Business & Commercial Loan</li>
+                                    <li>Bridging Finance</li>
+                                    <li>Property & Estate Finance</li>
+                                  </ul>
+                              </li>
+                            <li>
+                <h1 class="arrow">Real Estate</h1>
+                <ul class="item">
+                                    <li>Property development</li>
+                                    <li>Sale and purchase of residential & commercial buildings, lands & factories</li>
+                                    <li>Leases & Tenancies</li>
+                                    <li>Acquisition by foreign interest</li>
+                                  </ul>
+                              </li>
+                          </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>";s:12:"content_meta";N;}

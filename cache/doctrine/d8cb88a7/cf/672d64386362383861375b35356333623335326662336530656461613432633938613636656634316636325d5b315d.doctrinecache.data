@@ -1,0 +1,12 @@
+1601955189
+a:2:{s:7:"content";s:320:"<p>'<div class="row"></p>
+<div class="col-md-4">
+        <div class="fancy-border">'
+          <img src="%7B%7B%20page.media%5Bpage.header.img%5D.url%20%7D%7D" class="img-responsive">
+        '</div>
+      </div>
+<pre><code>  &lt;div class="col-md-6"&gt;'
+      {{page.content}}
+
+'&lt;/div&gt;
+&lt;/div&gt;'</code></pre>";s:12:"content_meta";N;}

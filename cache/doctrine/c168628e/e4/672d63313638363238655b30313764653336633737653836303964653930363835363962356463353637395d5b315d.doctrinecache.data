@@ -1,0 +1,22 @@
+1601626405
+a:2:{s:7:"content";s:545:"<section class="text-center" id="responsive_design">
+  <div class="container-fluid nopadding responsive-services">
+    <div class="wrapper">
+      <div class="iphone">
+        <div class="wp3"></div>
+      </div>
+      <div class="fluid-white"></div>
+    </div>
+    <div class="container designs">
+      <div class="row">
+        <div class="col-md-5 col-md-offset-7">
+          <div id="servicesSlider">
+            <ul class="slides">
+                          </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+";s:12:"content_meta";N;}

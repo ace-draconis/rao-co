@@ -1,0 +1,21 @@
+1601955337
+a:2:{s:7:"content";s:599:"<div class="row">
+      <div class="col-md-4">
+        <div class="fancy-border">
+          <img src="%7B%7B%20page.media%5Bpage.header.img%5D.url%20%7D%7D" class="img-responsive">
+        </div>
+      </div>
+      <div class="col-md-6">
+          {{page.content}}
+
+    </div>
+    </div>
+<pre><code>    &lt;div class="row"&gt;
+  &lt;div class="col-md-6"&gt;{{page.content}}
+  &lt;/div&gt;
+  &lt;div class="col-md-4"&gt;
+    &lt;div class="fancy-border"&gt;
+      &lt;img src="{{ page.media[page.header.img].url }}" class="img-responsive"&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre>";s:12:"content_meta";N;}

@@ -1,0 +1,75 @@
+1601978362
+a:2:{s:7:"content";s:2569:"<section class="swag text-center" style="background-image:url('/images/0/4/b/g/-/04bg-797053a7.jpeg')">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <h1>Contact Us</h1>
+        <a href="#contact_us" class="down-arrow-btn"><i class="fa fa-chevron-down"></i></a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="intro  section-padding" id="contact_us">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h2 class="arrow">Get In Touch</h2>
+        <br> <br>
+      </div>
+    </div>
+    <div class="row">
+    <div class="col-md-3">
+        <h2 class="arrow text-center">Malacca Office</h2>
+        <b>Messrs Rao &amp; Co</b><br>
+        NO. 11 &amp; 11-1, JALAN KL 3/13<br>
+        TAMAN KOTA LAKSAMANA<br>
+        SEKSYEN 3, 75200 MELAKA<br>
+        MALAYSIA
+        <ul class="contact">
+            <li>Tel: +606.286 1122</li>
+            <li>Fax: +606.286 1212</li>
+            <li>Email: rao@sraoco.com</li>
+            <li>Website: www.sraoco.com</li>
+        </ul>
+    </div>
+    <div class="col-md-9">
+        <div class="fancy-border">
+            <div class="mapouter">
+                <div class="gmap_canvas">
+                    <iframe width="100%" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=Rao%20%26%20Co.%2C%20Advocates%20%26%20Solicitors&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr class="divider">
+<div class="row">
+    <div class="col-md-9">
+        <div class="fancy-border">
+            <div class="mapouter">
+                <div class="gmap_canvas">
+                    <iframe width="100%" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=i-SoVo%20@i-City&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <h2 class="arrow text-center">PETALING JAYA OFFICE</h2>
+        <b>Messrs Rao &amp; Co</b><br>
+        T3A-11-05, I-SOVO, TOWER 3A<br>
+        JALAN SS 8/39<br>
+        PUSAT PERDAGANGAN ICON CITY<br>
+        47300 PETALING JAYA, SELANGOR<br>
+        MALAYSIA
+        <ul class="contact">
+            <li>Tel: +603.7865 2332</li>
+            <li>Fax: +603.7865 8689</li>
+        </ul>
+    </div>
+</div>
+  </div>
+  <a href="#top" class="up-btn"><i class="fa fa-chevron-up"></i></a>
+</section>";s:12:"content_meta";N;}

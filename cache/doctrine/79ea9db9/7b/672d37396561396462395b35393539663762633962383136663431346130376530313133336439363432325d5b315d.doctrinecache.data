@@ -1,0 +1,56 @@
+1601611380
+a:2:{s:7:"content";s:1610:"
+
+
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#ls-hlSPDbikEG").lightSlider({
+        item: 1,
+        slideMove: 1,
+        slideMargin: 0,
+        mode: 'fade',
+        cssEasing: 'ease',
+        easing: '',
+        speed: 1000,
+        auto: true,
+        loop: true,
+        pause: 2000,
+        pauseOnHover: false,
+        controls: true,
+        keyPress: true,
+        adaptiveHeight: true,
+        vertical: false,
+        verticalHeight: 500,
+        pager: true,
+        gallery: false,
+        galleryMargin: 15,
+        thumbMargin: 5,
+        enableTouch: true,
+        enableDrag: true,
+
+    });
+  });
+</script>
+
+
+<div id="ls-hlSPDbikEG-wrapper" class="grav-lightslider">
+        <ul id="ls-hlSPDbikEG">
+                                                            <li data-thumb="/images/2/0/1/8/0/2018020901005881318-3a94b4d7.png">
+                <img src="/images/2/0/1/8/0/2018020901005881318-14bc17e2.png" />
+            </li>
+                                                            <li data-thumb="/images/a/i/j/i/a/aijia-38a47844.jpeg">
+                <img src="/images/a/i/j/i/a/aijia-4dd05864.jpeg" />
+            </li>
+                                                            <li data-thumb="/images/r/a/o/-/3/rao-3c031f58.jpeg">
+                <img src="/images/r/a/o/-/f/rao-fe34c9a9.jpeg" />
+            </li>
+                                                            <li data-thumb="/images/s/a/r/a/h/sarah-00bb9986.jpeg">
+                <img src="/images/s/a/r/a/h/sarah-b0b73c65.jpeg" />
+            </li>
+            </ul>
+    </div>
+
+
+
+";s:12:"content_meta";N;}
